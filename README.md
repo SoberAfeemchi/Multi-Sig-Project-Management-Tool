@@ -63,6 +63,8 @@ By leveraging blockchain technology, we envision a future where project collabor
 15. **Reputation System**: Build a reputation score for stakeholders based on their approval patterns and project completion rates
 
 contract address - CCTAWHQRPR6H2C3XV5J4ZQPOCY7UZVSVPVINWHYOPDVA2IL5RICXBQBJ 
----
+---<img width="1918" height="567" alt="image" src="https://github.com/user-attachments/assets/bd7d8151-a25e-4ba0-8956-878e778264e1" />
+
+
 
 **Built with Soroban SDK** | **Stellar Blockchain Platform** | **Secure Multi-Signature Architecture**
